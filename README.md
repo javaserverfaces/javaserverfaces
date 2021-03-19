@@ -12,6 +12,10 @@ If you are interested in the legacy project archives, you can find these here:
 + https://github.com/javaee/javaserverfaces-spec
 + https://github.com/javaee/mojarra
 + https://github.com/javaee/extensions
-+ https://github.com/javaee/javaserverfaces.github.io
++ https://github.com/javaee/javaserverfaces
+
+The legacy website may be found
+
++ https://javaee.github.io/javaserverfaces/index-0.html
 
 If you keep bookmarks, please update them if you have landed here by mistake.
