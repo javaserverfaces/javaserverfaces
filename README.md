@@ -1,16 +1,17 @@
-### Hi there 👋
+### Former JavaServer Faces home
 
-<!--
-**javaserverfaces/javaserverfaces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the legacy home of JavaServer Faces. This project has been transferred to the Eclipse Foundation.
+The new home for Java Server Faces, and all it's components may be found from the followign links
 
-Here are some ideas to get you started:
++ https://github.com/eclipse-ee4j/faces-api
++ https://github.com/eclipse-ee4j/mojarra
++ https://github.com/eclipse-ee4j/mojarra-jsf-extensions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you are interested in the legacy project archives, you can find these here:
+
++ https://github.com/javaee/javaserverfaces-spec
++ https://github.com/javaee/mojarra
++ https://github.com/javaee/extensions
++ https://github.com/javaee/javaserverfaces.github.io
+
+If you keep bookmarks, please update them if you have landed here by mistake.
